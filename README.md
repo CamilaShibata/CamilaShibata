@@ -1,7 +1,7 @@
 # Oi pessoal!✌🏽
 <img width="600" height="250" alt="color picker" src="https://media3.giphy.com/media/l2R07QDhtsqwGIZu8/giphy.gif?cid=ecf05e47c7l7isqqxs8tmh3r5rjact2kg6qecf5pw0il9fq8&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<center> Meu nome é Camila Shibata, sou analista de dados júnior e atualmente engajada em aprimorar meus conhecimentos adquiridos neste último ano. Tenho cuidado com muito carinho da minha carreira e dedicado um grande tempo (e suor e lágrimas) dos meus dias, em fortalecer meus conhecimentos na área de dados e ver minha carreira florescer e dar grandes saltos. </center>
+<center> Meu nome é Camila Shibata, sou analista de suporte e atualmente engajada em aprimorar meus conhecimentos adquiridos neste último ano. Tenho cuidado com muito carinho da minha carreira e dedicado um grande tempo (e suor e lágrimas) dos meus dias, em fortalecer meus conhecimentos na área de tecnologia e ver minha carreira florescer e dar grandes saltos. </center>
 
 #  
 ## Tecnologias e Ferramentas 
